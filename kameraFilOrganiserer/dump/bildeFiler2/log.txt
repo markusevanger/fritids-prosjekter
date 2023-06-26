@@ -1,0 +1,10 @@
+Startet aa organisereC:\Users\marku\Desktop\uioGit\fritids-prosjekter\kameraFilOrganiserer/dump/bildeFiler22023-06-21 15:30:18.295041
+Opprettet mappe med navn: .jpg.
+Opprettet mappe med navn: .mp4.
+Opprettet mappe med navn: .png.
+Ferdig aa organisere (C:\Users\marku\Desktop\uioGit\fritids-prosjekter\kameraFilOrganiserer/dump/bildeFiler2): 2023-06-21 15:30:18.308006
+
+Statistikk:
+Flyttet 8 filer til .jpg.
+Flyttet 4 filer til .mp4.
+Flyttet 1 filer til .png.
